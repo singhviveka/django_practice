@@ -1,0 +1,5 @@
+djangorestframework
+markdown
+django-filter
+elasticsearch~=7.8.1
+Django~=3.1
